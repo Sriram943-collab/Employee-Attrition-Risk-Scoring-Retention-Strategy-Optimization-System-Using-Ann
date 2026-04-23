@@ -34,22 +34,21 @@ This project transforms a traditional DL pipeline into a **multi-layer AI system
 ---
 
 ## 🏗️ System Architecture
-Employee Data
+- Employee Data
 ↓
-Data Preprocessing (Cleaning + Encoding + Scaling + Feature Engineering)
+- Data Preprocessing (Cleaning + Encoding + Scaling + Feature Engineering)
 ↓
-Artificial Neural Network (ANN Model)
+- Artificial Neural Network (ANN Model)
 ↓
-Probability Output (0–1)
+- Probability Output (0–1)
 ↓
-Risk Scoring Engine (0–100%)
+- Risk Scoring Engine (0–100%)
 ↓
-Root Cause Analysis Engine
+- Root Cause Analysis Engine
 ↓
-Retention Strategy Optimization
+- Retention Strategy Optimization
 ↓
-Interactive Dashboard (Streamlit)
-
+- Interactive Dashboard (Streamlit)
 
 ---
 
